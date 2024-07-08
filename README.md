@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://imgur.com/a/03vfl9Z 
+<a href = 'https://imgur.com/a/bajVfvc'>Video Walkthrough</a>
 
-GIF created with LICECap.
+GIF created with LICECap. Upload in imgur.
 
 ## Notes
 
