@@ -52,7 +52,7 @@ function addGamesToPage(games) {
 
     });
     }
-addGamesToPage(GAMES_JSON); //call to function addGamesToPage
+//addGamesToPage(GAMES_JSON); //call to function addGamesToPage
 
 
 // call the function we just defined using the correct variable
@@ -119,7 +119,7 @@ function filterFundedOnly() {
     // use the function we previously created to add unfunded games to the DOM
     addGamesToPage(funded_games);
 }
-//filterFundedOnly() //call to function to display funded games
+filterFundedOnly() //call to function to display funded games
 
 // show all games
 function showAllGames() {
