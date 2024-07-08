@@ -4,7 +4,7 @@ Submitted by: **Tahia Islam**
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **13-15** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -23,17 +23,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href='https://imgur.com/a/03vfl9Z'>Video Walkthrough</a>
+https://imgur.com/a/03vfl9Z 
 
 GIF created with LICECap.
 
 ## Notes
 
-Some challenges I encountered were understanding flexbox and applying it to the app. I read documentations of it and was able to apply it which also increased my understanding of it. 
+Some challenges I encountered were understanding flexbox and applying it to the app. I read documentations of it and was able to apply it which also increased my understanding of it. Other challenges included JavaScript syntax.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
